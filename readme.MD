@@ -62,7 +62,6 @@ API de automação para monitoramento de processos no Tribunal de Justiça de S�
 | `BOT_NAME` | Nome do bot. Útil caso houver mais de um container rodando. | `monitoramento-processual-tjsp` |
 | `LOG_LEVEL` | Nível de log (DEBUG, INFO, WARNING, ERROR) | `INFO` |
 | `TEMPO_LIMITE` | Tempo limite em segundos para carregamento de página. | `180` |
-| `TENTATIVAS_MAXIMAS_CAPCAPTCHA` | Máximo de tentativas para resolver o CAPTCHA. | `30` |
 | `TENTATIVAS_MAXIMAS_RECURSIVAS` | Máximo de tentativas recursivas para consulta. | `30` |
 
 
