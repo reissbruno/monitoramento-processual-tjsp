@@ -1,4 +1,4 @@
-# Monitoramento Processual - Tribunal de Justiça de Santa Catarina :robot:
+# Monitoramento Processual - Tribunal de Justiça de São Paulo :robot:
 
 ## Descrição
 API de automação para monitoramento de processos no Tribunal de Justiça de São Paulo (TJSP). A aplicação utiliza **FastAPI** para expor endpoints de consulta processual, integrando com Requisições assincronas para a captura de dados do site oficial do TJSP.
